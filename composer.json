@@ -1,0 +1,21 @@
+{
+    "name": "masum-packagist/php-math-operations",
+    "description": "A PHP package for any kind of Math Operations.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MasumPackagist\\PhpMathOperations\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Masum Billah",
+            "email": "office.hellomasum@gmail.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "stable",
+    "version": "1.0.0"
+}
+
